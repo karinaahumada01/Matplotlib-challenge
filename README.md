@@ -1,7 +1,7 @@
 # Matplotlib-challenge
 
 ## Overview 
-### This assignment's repository includes an analysis of a pharmaceutical company's study on a group of mice to test the treatment effectiveness of different drug regimens on reducing tumor size. The analysis uses Python and pandas, and contains data processing, statistical analysis, and data visuals.
+### This assignment's repository includes an analysis of a pharmaceutical company's study on a group of mice to test the effectiveness of different drug regimens on reducing tumor size. The analysis uses Python and pandas, and contains data processing, statistical analysis, and data visuals.
 
 ## Files
 ### 1. Pymaceuticals_analysis.ipynb: Where the main analysis is done and includes different plot charts of results and draws conclusions from the data.
